@@ -3,19 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-<<<<<<< HEAD
-    background-color:orchid;
+   
+    background-color: olive;
   }
   
   h1 {
-    font-size: 13rem;
-=======
-    background-color: teal;
-  }
-  
-  h1 {
-    font-size: 16rem;
->>>>>>> teal-bg
+    font-size: 20rem;
+
     font-family: Montserrat;
   }
   
