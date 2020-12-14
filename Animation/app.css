@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(72, 174, 199);
+}
+.big {
+    margin: 300px;
+ transform: scale(4);
+ 
+ 
+
+.small {
+ margin: 300px;
+ transform: scale(0.5);
+}
